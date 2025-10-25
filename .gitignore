@@ -131,15 +131,7 @@ dmypy.json
 *.db-wal
 home-assistant.log
 
-# Personal documentation (Catalan)
-# These files contain personal development notes in Catalan and have been moved to:
-# ~/Documents/voice-automation-ai-personal-docs/
-# They are not needed in the public repository.
-CLAUDE.md
-TESTING_GUIDE.md
-GITHUB_SETUP.md
-PROJECTE_*.md
-INSTALLACIO_*.md
-RESUM_*.md
-PUBLICACIO_*.md
-*_PERSONAL.md
+# Personal documentation
+# Symlink to personal documentation directory (ignored by Git)
+# Location: ~/Documents/voice-automation-ai-personal-docs/
+/docs/
