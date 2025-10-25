@@ -136,6 +136,8 @@ home-assistant.log
 # ~/Documents/voice-automation-ai-personal-docs/
 # They are not needed in the public repository.
 CLAUDE.md
+TESTING_GUIDE.md
+GITHUB_SETUP.md
 PROJECTE_*.md
 INSTALLACIO_*.md
 RESUM_*.md
