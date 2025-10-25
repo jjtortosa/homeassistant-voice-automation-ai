@@ -1,0 +1,34 @@
+{
+  "config": {
+    "step": {
+      "user": {
+        "title": "Voice Automation AI Setup",
+        "description": "Configure your Anthropic API credentials",
+        "data": {
+          "api_key": "Anthropic API Key",
+          "model": "Claude Model",
+          "language": "Language"
+        }
+      }
+    },
+    "error": {
+      "cannot_connect": "Failed to connect to Anthropic API. Please check your internet connection.",
+      "invalid_auth": "Invalid API key. Please check your Anthropic API key.",
+      "unknown": "Unexpected error occurred."
+    },
+    "abort": {
+      "already_configured": "This integration is already configured."
+    }
+  },
+  "options": {
+    "step": {
+      "init": {
+        "title": "Voice Automation AI Options",
+        "data": {
+          "model": "Claude Model",
+          "language": "Language"
+        }
+      }
+    }
+  }
+}
