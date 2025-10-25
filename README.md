@@ -3,6 +3,18 @@
 [![hacs_badge](https://img.shields.io/badge/HACS-Custom-41BDF5.svg)](https://github.com/hacs/integration)
 [![GitHub release](https://img.shields.io/github/release/jjtortosa/homeassistant-voice-automation-ai.svg)](https://GitHub.com/jjtortosa/homeassistant-voice-automation-ai/releases/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+![Development Status](https://img.shields.io/badge/status-beta-orange.svg)
+
+> **⚠️ BETA VERSION - NOT FULLY TESTED YET**
+>
+> This integration is in **early development** and has not been extensively tested in production environments.
+>
+> - ✅ Code is complete and functional
+> - ⚠️ Limited real-world testing
+> - 🧪 Use at your own risk
+> - 🐛 Please report any issues you encounter
+>
+> **Testers welcome!** Your feedback will help make this integration stable and production-ready.
 
 Create Home Assistant automations using natural language voice commands powered by Claude AI from Anthropic.
 

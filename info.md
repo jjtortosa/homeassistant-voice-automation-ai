@@ -1,5 +1,9 @@
 # Voice Automation AI
 
+> **⚠️ BETA - Early Development Version**
+>
+> This integration is functional but **not fully tested** yet. Testers welcome!
+
 Create Home Assistant automations using **voice commands** powered by Claude AI! 🎤🤖
 
 ## What is this?

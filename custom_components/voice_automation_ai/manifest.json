@@ -1,7 +1,7 @@
 {
   "domain": "voice_automation_ai",
   "name": "Voice Automation AI",
-  "version": "1.0.0",
+  "version": "0.1.0",
   "documentation": "https://github.com/jjtortosa/homeassistant-voice-automation-ai",
   "issue_tracker": "https://github.com/jjtortosa/homeassistant-voice-automation-ai/issues",
   "codeowners": ["@jjtortosa"],
