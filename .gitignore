@@ -134,4 +134,4 @@ home-assistant.log
 # Personal documentation
 # Symlink to personal documentation directory (ignored by Git)
 # Location: ~/Documents/voice-automation-ai-personal-docs/
-/docs/
+/docs
