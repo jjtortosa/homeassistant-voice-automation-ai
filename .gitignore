@@ -3,6 +3,10 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+# Development artifacts in custom_components
+custom_components/**/__pycache__/
+custom_components/**/.idea/
+
 # C extensions
 *.so
 
@@ -135,3 +139,7 @@ home-assistant.log
 # Symlink to personal documentation directory (ignored by Git)
 # Location: ~/Documents/voice-automation-ai-personal-docs/
 /docs
+
+# Claude Code personal configuration and documentation
+/.claude
+/CLAUDE.md
